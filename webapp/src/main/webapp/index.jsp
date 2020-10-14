@@ -1,2 +1,2 @@
-<h1> Hey Jhon, good luck with work xx !! </h1>
+<h1> Hey John, good luck with work xx !! </h1>
 
